@@ -1,5 +1,5 @@
 ### Hi, I'm Ahmed👋
-<p>- I am a sophomore student at <span>KFUPM</span></p>
+<p>- I am currently a sophomore student at <span>KFUPM</span></p>
 <img src="https://github.com/AhmedAldeek/AhmedAldeek/assets/108627092/cd48d778-8249-4f84-a821-675151ebbe48" width="90">
 <p>- I am interested in full-stack web development</p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -15,6 +15,11 @@
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<style>
+  span{
+    color:darkGreen;
+  }
+</style>
 <!--
 **AhmedAldeek/AhmedAldeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
