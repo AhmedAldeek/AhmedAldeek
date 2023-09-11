@@ -3,6 +3,16 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<p>- I have some experience in data analysis using python and trying to expand my knowledge in machine learning</p>
+<ul>
+  <li>Pandas</li>
+  <li>SciKit</li>
+  <li>Numpy</li>
+</ul>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <!--
 **AhmedAldeek/AhmedAldeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
