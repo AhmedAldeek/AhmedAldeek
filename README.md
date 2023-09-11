@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </ul>
 <p>- I have done some projects in javafx and have good JAVA foundation.</p>
-<img src="
+
 <p>- I am currently studying:</p>
 <ul>
   <li>Hybrid mobile Apps development</li>
