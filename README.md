@@ -1,5 +1,6 @@
 ### Hi, I'm Ahmed👋
-I
+<p>- I am interested in full-stack web development</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <!--
 **AhmedAldeek/AhmedAldeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
