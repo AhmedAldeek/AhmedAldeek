@@ -1,5 +1,5 @@
 ### Hi, I'm Ahmed👋
-<p>- I am currently a sophomore student at<span style="color:darkgreen;">KFUPM</span></p>
+<p>- I am currently a sophomore student at <span style='color:darkgreen;'>KFUPM</span></p>
 <img src="https://github.com/AhmedAldeek/AhmedAldeek/assets/108627092/cd48d778-8249-4f84-a821-675151ebbe48" width="90">
 <p>- I am interested in full-stack web development</p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
